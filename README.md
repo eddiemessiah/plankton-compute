@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🟦 INFINITE COMPUTING, ENDLESS SCALE. 🟦
 
-# Run and deploy your AI Studio app
+## The Plankton Protocol
 
-This contains everything you need to run your app locally.
+**Plankton** represents the convergence of high-performance distributed computing and privacy-preserving blockchain technology.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1vWqLFQxBd_0nk7KBMOQPYtPhkzHWZeMz
+### 🚀 Infinite Compute
+We aggregate decentralized processing power into a unified, elastic grid. This allows complex computations—from AI model training to scientific rendering—to be executed with the speed and reliability of centralized clouds, but without the single point of failure.
 
-## Run Locally
+### 🛡️ Privacy-Preserving
+Built on advanced zero-knowledge proofs and secure enclaves, Plankton ensures that data remains encrypted during computation. Validate the work, not the data. This unlocks a new era of secure, trustless applications where privacy is a guarantee, not a feature.
 
-**Prerequisites:**  Node.js
+---
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Project Structure
+- **Frontend**: React + Vite + TailwindCSS (Cyberpunk/Futuristic UI)
+- **Contracts**:
+  - `contracts/solidity`: EVM Smart Contracts (Base, L2s)
+  - `contracts/sui`: Move Smart Contracts (Sui Network)
